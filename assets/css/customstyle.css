@@ -1,0 +1,66 @@
+#foto-poster img{
+	width: 100%;
+}
+.deskripsi p{
+	text-align: justify;
+}
+.form-group .line input{
+	border-bottom: 1px solid #E2E2E2;
+}
+
+.form-group .line input:focus{
+	border-bottom: 2px solid #B7292D;
+}
+.demo-checkbox label, .demo-radio-button label{
+	min-width: 50px;
+}
+.box{
+	padding: 10px;
+}
+input:focus{
+	border-style: none;
+}
+.theme .navbar{
+	background-color: #B7292D;
+}
+.theme .navbar-brand {
+  color: #fff; }
+  .theme .navbar-brand:hover {
+    color: #fff; }
+  .theme .navbar-brand:active {
+    color: #fff; }
+  .theme .navbar-brand:focus {
+    color: #fff; }
+
+.theme .nav > li > a {
+  color: #fff; }
+  .theme .nav > li > a:hover {
+    background-color: transparent; }
+  .theme .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme .nav .open > a {
+  background-color: transparent; }
+  .theme .nav .open > a:hover {
+    background-color: transparent; }
+  .theme .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme .bars {
+  color: #fff; }
+
+.theme .sidebar .menu .list li.active {
+  background-color: transparent; }
+  .theme .sidebar .menu .list li.active > :first-child i, .theme .sidebar .menu .list li.active > :first-child span {
+    color: #F44336; }
+
+.theme .sidebar .menu .list .toggled {
+  background-color: transparent; }
+
+.theme .sidebar .menu .list .ml-menu {
+  background-color: transparent; }
+
+.theme .sidebar .legal {
+  background-color: #fff; }
+  .theme .sidebar .legal .copyright a {
+    color: #F44336 !important; }

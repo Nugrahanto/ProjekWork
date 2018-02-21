@@ -1,0 +1,124 @@
+.redbg{
+	color: #B7292D;
+}
+.navbar-default .navbar-nav > li > a{
+	color: black;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+	color: black;
+}
+.hehe{
+	height: 40px;
+	margin-bottom: 10px;
+	padding-bottom: -10px;
+}
+.hehe:hover{
+	border-bottom: 2px solid #B7292D;
+}
+.banner-top{
+	background-color: #B7292D;
+}
+.product{
+	margin-top: -3em;
+}
+.judul{
+	margin-top: 0;
+	height: 35px;
+	text-align: center;
+}
+.judul h6{
+	font-size: 12pt;
+}
+.penyelenggara{
+	height: 60px;
+	margin-bottom: 5%;
+	margin-top: 0;
+}
+.penyelenggara p{
+	font-size: 10pt;
+	color: #B7292D;
+}
+.tanggal{
+	z-index: 9;
+	margin-top: 20%;
+	position: absolute;
+	background-color: #B7292D;
+	width: 23%;
+}
+.tanggal p{
+	color: white;
+	font-size: 9pt;
+	text-align: center;
+}
+.box{
+	border: 2px solid #B7292D;
+	background-color: black;
+	z-index: 9999999;
+}
+.box img{
+	opacity: 0.2;
+}
+.box2:hover{
+	opacity: 0.8;
+}
+.big-sale2 h3{
+	margin-top: 15%;
+	font-size: 18pt;
+}
+.big-sale2 p{
+	font-size: 8pt;
+}
+.like p{
+	font-size: 20pt;
+	margin-top: 0;
+}
+.actived a:visited{
+	background-color: red;
+}
+.bottom-image img{
+	width: 100%;
+	height: auto;
+	padding-top: 15%;
+	margin: 0;
+	margin-top:-10%;
+}
+.box_other{
+	background-color:#B4B4B4;
+}
+.box-map{
+    height: 200px;
+}
+.box-map #map{
+    height: 200px;
+    margin-top: 1%;
+}
+.margin-top{
+    margin-top: 1%;
+}
+.bg{
+	background: url("../images/smktelkommalang.jpg");
+}
+.bg-black{
+	background-color: black;
+}
+.thumbnail {
+  height: 360px;
+  width: 100%;
+}
+.thumbnail2 {
+  height: 165px;
+  width: 100%;
+}
+.o-gambar{
+	opacity: 0.5;
+}
+.notif{
+	text-align: center;
+	color: #F07C7C;
+}
+.tab-content{
+	overflow-y: visible;
+}
+.top{
+	margin-top: 10px;
+}
